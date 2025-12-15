@@ -1,2 +1,9 @@
 # Laivas-projekts
-Laiva utt hiohi
+
+Simulacijas grupa laivas progress
+Visi faili un progress
+Bez jokiem
+
+# Noteikumi
+Nelamāties
+Klausīt bosu
